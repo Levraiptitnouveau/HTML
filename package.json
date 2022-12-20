@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "gulp": "./node_modules/.bin/gulp",
+    "gulp watch": "./node_modules/.bin/gulp watch"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.27.11",
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0",
+    "gulp-dart-sass": "^1.0.2",
+    "gulp-uglify": "^3.0.2"
+  }
+}
